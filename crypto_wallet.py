@@ -10,7 +10,7 @@ import os
 import requests
 from dotenv import load_dotenv
 
-load_dotenv(r"C:\Users\benis\Documents\Beni\UoT\HW\Unit 19\FinTech_BC_Unit19_HW\cryptocurrency_wallet\ut.env")
+load_dotenv("Users/mohjaiswal/Desktop/crypto_wallets/SAMPLE.env")
 from bip44 import Wallet
 from web3 import Account
 from web3 import middleware
