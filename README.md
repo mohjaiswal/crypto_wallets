@@ -46,14 +46,33 @@ The integration of Ethereum blockchain in this fintech application revolutionize
 
 ## Support
 
-For support, please open an issue in the [GitHub Issue Tracker](https://github.com/YourRepository/CryptographicCurrencyWallets/issues). You can also find help and discussion on our community forums at [Community Forum Link].
+For support, please open an issue in the [GitHub Issue Tracker](https://github.com/mohjaiswal/crypto_wallets/issues). 
 
 ## Roadmap
 
-See the [open issues](https://github.com/YourRepository/CryptographicCurrencyWallets/issues) for a list of proposed features (and known issues). Future plans include:
-- Feature 1
-- Feature 2
-- Improvements in security
+Our roadmap outlines the planned enhancements and new features we aim to integrate into our application in the coming months. We welcome community feedback and contributions to help us achieve these milestones:
+
+1. **Mobile App Development (Q2 2023):** Launch of a mobile version of the application to provide users with on-the-go access.
+
+2. **Multi-Currency Support (Q3 2023):** Implementing support for additional cryptocurrencies to broaden transaction options for users.
+
+3. **Enhanced Security Features (Q4 2023):** Introduction of two-factor authentication and biometric security for increased protection.
+
+4. **User Analytics Dashboard (Q1 2024):** Development of a dashboard for users to track their transaction history, spending patterns, and other financial metrics.
+
+5. **API Integrations (Q2 2024):** Providing API access for third-party services to integrate with our platform, enhancing usability and functionality.
+
+6. **Machine Learning for Fraud Detection (Q3 2024):** Incorporating machine learning algorithms to identify and prevent fraudulent transactions.
+
+7. **Community Features (Q4 2024):** Adding community-driven features like forums, Q&A sections, and educational resources on blockchain and cryptocurrency.
+
+8. **International Expansion (Q1 2025):** Expanding our services to additional countries, adapting to various regulatory environments.
+
+9. **Sustainable Blockchain Practices (Q2 2025):** Implementing environmentally-friendly practices in our blockchain operations.
+
+10. **User Experience Enhancements (Ongoing):** Continual improvements to the user interface and experience based on user feedback and usability testing.
+
+We encourage the community to participate in this roadmap by providing feedback, suggesting new features, and contributing to development. Check our [GitHub issues](https://github.com/mohjaiswal/crypto_wallets/issues) for current discussions on these features.
 
 ## Contributing
 
