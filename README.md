@@ -1,6 +1,6 @@
 # Cryptographic Currency Wallets
 
-![Cryptographic Currency Wallets Header](Create_a_modern_and_sleek_header_image_for_a_proje.png)
+![Cryptographic Currency Wallets Header](headercryptowallet.png)
 
 Integrating the Ethereum blockchain network, this application empowers customers to instantly pay fintech professionals with cryptocurrency. By integrating Ethereum into the payment process, we enhance payment speed, reduce costs, expand global reach, and bolster transaction security and transparency.
 
